@@ -146,7 +146,7 @@ Academic portal with course materials, student dashboard, academic calendar and 
 | 🏆 | Achievement |
 |---|---|
 | 🚀 | **Smart India Hackathon 2026** — Team *Convolity AI* (Explainable AI for diabetic retinopathy) |
-| 🛡️ | **Core Member**, Cyber-Ops Club — Integral University |
+| 🛡️ | **CLUB COORDINATOR**, Cyber-Ops Club — Integral University |
 | 🔐 | **The Hackers Meetup × COMEXPO** — Cyber Security Foundation (2024) |
 | 📜 | **MERN Stack** certification — Analyze InfoTech (2026) |
 | 📜 | **AI & LLM** certification — Azmarq Technology (2025) |
