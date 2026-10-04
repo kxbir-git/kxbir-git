@@ -29,11 +29,11 @@
 ```python
 class AbdulKabirKhan:
     def __init__(self):
-        self.role      = "B.Tech CSE Student @ Integral University, Lucknow"
+        self.role      = "B.Tech CSE 3rd Student @ Integral University, Lucknow"
         self.location  = "Lucknow, India 🇮🇳"
-        self.focus     = ["MERN Stack", "Next.js", "FastAPI / Django", "Computer Vision", "LLMs"]
+        self.focus     = ["Python", "MERN Stack", "Next.js", "FastAPI / Django", "Computer Vision", "LLMs"]
         self.interests = ["Explainable AI", "Cybersecurity", "IoT", "System Design"]
-        self.clubs     = ["Cyber-Ops Club (Core Member)"]
+        self.clubs     = ["Cyber-Ops Club (Club Coordinator)"]
         self.currently = "Levelling up Next.js + Python backends 🔧"
 
     def motto(self):
