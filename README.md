@@ -6,9 +6,7 @@
 <a href="https://github.com/kxbir-git">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%3E+Booting+AbdulKabir.exe+...;%3E+Building+MERN+stack+apps+%F0%9F%9A%80;%3E+Training+vision+models+with+Explainable+AI+%F0%9F%A7%A0;%3E+Hunting+bugs+%26+exploring+cybersecurity+%F0%9F%9B%A1%EF%B8%8F;%3E+Open+to+internships+%26+collabs+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
-
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=kxbir-git&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/github/followers/kxbir-git?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0d1117" alt="followers"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF9C?style=for-the-badge&labelColor=0d1117" alt="status"/>
