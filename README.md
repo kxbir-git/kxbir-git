@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=240&section=header&text=ABDUL%20KABIR%20KHAN&fontSize=52&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=//%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Cyber%20Enthusiast&descSize=18&descColor=B388FF&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://github.com/kxbir-git">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%3E+Booting+AbdulKabir.exe+...;%3E+Building+MERN+stack+apps+%F0%9F%9A%80;%3E+Training+vision+models+with+Explainable+AI+%F0%9F%A7%A0;%3E+Hunting+bugs+%26+exploring+cybersecurity+%F0%9F%9B%A1%EF%B8%8F;%3E+Open+to+internships+%26+collabs+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%3E+Booting+AbdulKabir.exe+...;%3E+Building+MERN+stack+apps+%F0%9F%9A%80;%3E+Training+vision+models+with+Explainable+AI+%F0%9F%A7%A0;%3E+Hunting+bugs+%26+exploring+cybersecurity+%F0%9F%9B%A1%EF%B8%8F;%3E+Open+to+internships+%26+collabs+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=kxbir-git&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge" alt="views"/>
